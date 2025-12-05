@@ -2,10 +2,6 @@
 <h3 align="center">Cloud & DevOps Engineer | Ex-Field Service → Scalable Infra</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codexme&label=Profile+views&color=0e75b6&style=flat" alt="codexme" />
-</p>
-
-<p align="center">
   <strong>AWS • Terraform • Kubernetes • Docker • CI/CD • Python Backend</strong>
 </p>
 
