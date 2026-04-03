@@ -36,7 +36,7 @@
 
 ---
 
-### 🧹 **Base44 App Suite** - Local Service Business Tools
+#app Suite** - Local Service Business Tools
 
 #### **STOPBY Cleaners** - POS-Style Web App
 > Modern point-of-sale system for cleaning service businesses
