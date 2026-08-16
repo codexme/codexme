@@ -36,7 +36,7 @@
 
 ---
 
-#app Suite** - Local Service Business Tools
+### 🏗️ **App Suite** - Local Service Business Tools
 
 #### **STOPBY Cleaners** - POS-Style Web App
 > Modern point-of-sale system for cleaning service businesses
@@ -65,6 +65,15 @@
 ---
 
 ### 🌐 **Web Platforms & Sites**
+
+#### **Scroll Scrub Hero** - AI-Powered Scroll Hero Generator
+> Turn a single photo into a scroll-driven before/after hero using kie.ai + Kling video tweens
+- 🖼️ Photo-to-keyframe pipeline via GPT Image 2 image-to-image
+- 🎬 First/last-frame video tweens with Kling 3.0 for smooth scrub motion
+- ⚡ ffmpeg WebP frame extraction into a drop-in canvas scrub engine
+- 🤖 Six-question interview that prices the run before spending a cent
+- **Stack:** Node.js, ffmpeg, kie.ai API, GSAP ScrollTrigger
+- 🔗 [View Project](https://github.com/Black-Line-Ops/scroll-scrub-hero)
 
 #### **Vaxelo Website** - Company Landing Page
 > Marketing site for Vaxelo AI suite of products
@@ -169,6 +178,7 @@
 | **STOPBY Cleaners** | POS for cleaning businesses | JavaScript, PWA | ✅ Deployed |
 | **HOA Guardian** | HOA management platform | JavaScript | ✅ Deployed |
 | **DebitZero** | AI debt optimization | Python, AI | 🔄 Development |
+| **Scroll Scrub Hero** | AI scroll hero from one photo | Node.js, kie.ai, ffmpeg | ✅ Deployed |
 
 ---
 
