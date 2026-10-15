@@ -26,57 +26,6 @@
 - **Stack:** TypeScript, SaaS Architecture, AI Integration
 - 🔗 [View Project](https://github.com/codexme/followupos-saas-platform)
 
-#### **Realtor Automation** - Lead Capture & Auto-Pilot for Realtors
-> Complete automation suite for real estate professionals
-- 🏠 Automated lead capture and qualification
-- 💬 AI-powered client communication
-- 📅 Appointment scheduling and follow-ups
-- 🎯 Marketing automation on autopilot
-- **Stack:** JavaScript, AI Wrappers, Automation APIs
-
----
-
-#app Suite** - Local Service Business Tools
-
-#### **STOPBY Cleaners** - POS-Style Web App
-> Modern point-of-sale system for cleaning service businesses
-- 💳 Payment processing and invoicing
-- 📱 Mobile-first PWA design
-- 👥 Customer management system
-- 📊 Business analytics dashboard
-- **Stack:** JavaScript, PWA, Payment APIs
-- 🔗 [View Project](https://github.com/codexme/stopby-cleaners)
-
-#### **HOA Guardian** - HOA Management Platform
-> Property management and compliance tracking for HOAs
-- 🏘️ Violation tracking and notifications
-- 📸 Photo documentation system
-- 📝 Automated reporting and compliance
-- **Stack:** JavaScript, Base44 Framework
-- 🔗 [View Project](https://github.com/codexme/hoa-guardian)
-
-#### **SparkleClean (fCleaningWebapp)** - Service Management
-> Full-featured cleaning service management platform
-- 📅 Booking and scheduling system
-- 💼 Crew management and assignments
-- 💰 Pricing calculator and quotes
-- **Stack:** JavaScript, PWA Architecture
-
----
-
-### 🌐 **Web Platforms & Sites**
-
-#### **Vaxelo Website** - Company Landing Page
-> Marketing site for Vaxelo AI suite of products
-- **Stack:** HTML/CSS, Modern Web Design
-- 🔗 [View Project](https://github.com/codexme/vaxelo-website)
-
-#### **DebitZero** - Financial Tool
-> AI-powered debt management and optimization tool
-- 💳 Smart debt payoff strategies
-- 📊 Financial planning automation
-- 🤖 AI-driven recommendations
-
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -165,10 +114,6 @@
 |---------|-------------|------|--------|
 | **Vaxelo AI** | Market prediction engine | Python, AI Agents | 🚀 Active |
 | **FollowUpOS** | Sales automation SaaS | TypeScript, AI | 🚀 Active |
-| **Realtor Automation** | Lead capture autopilot | JavaScript, APIs | 🚀 Active |
-| **STOPBY Cleaners** | POS for cleaning businesses | JavaScript, PWA | ✅ Deployed |
-| **HOA Guardian** | HOA management platform | JavaScript | ✅ Deployed |
-| **DebitZero** | AI debt optimization | Python, AI | 🔄 Development |
 
 ---
 
