@@ -11,22 +11,22 @@
 
 ### 🤖 **AI-Powered SaaS Platforms**
 
-#### **Vaxelo AI + Vaxelo Website** - Prediction Engine, Browser Extension & Marketing Site
-> Agentic AI system for market prediction, automated trading signals, and the public-facing website
+#### **Vaxelo AI + Vaxelo Website** — AI Prediction Product & Marketing Site
+> An AI-powered market prediction product, including its browser extension and public-facing website
 - 🧠 Multi-agent orchestration for market analysis
 - 📊 Real-time prediction engine using LLMs
 - 🔌 Chrome extension for Kalshi platform integration
 - 🌐 Marketing site for the Vaxelo product suite
 - **Stack:** Python, AI Agents, Browser Extension APIs, HTML/CSS
 
-#### **GuzoTracker** - Tracking / Operations Platform
-> A focused product for tracking and operations workflows
+#### **GuzoTracker** — Tracking & Operations Platform
+> A platform for tracking activity and managing operational workflows
 - 📈 Tracking and workflow automation
 - 🤖 AI-assisted insights and automation
 - **Stack:** TypeScript, SaaS Architecture, AI Integration
 
-#### **Baqeme** - New Product Initiative
-> New product work currently in progress
+#### **Baqeme** — Product Platform
+> An active product focused on core platform features and automation
 - ✨ Product development and iteration
 - 🛠️ Core platform features and automation
 - **Stack:** JavaScript, AI / Automation Stack
@@ -94,9 +94,8 @@
 
 ## 💡 Current Status
 
-- 🔭 **Shipping:** Vaxelo AI + Vaxelo Website
+- 🔭 **Building:** Vaxelo AI + Vaxelo Website, GuzoTracker, and Baqeme
 - 🌱 **Learning:** Advanced agentic AI patterns, multi-agent orchestration
-- 🚀 **Next Up:** Growing GuzoTracker and Baqeme
 - 💬 **Ask me about:** Building AI-powered SaaS, automation systems, or shipping fast
 
 ---
@@ -119,11 +118,11 @@
 |---------|-------------|------|--------|
 | **Vaxelo AI + Vaxelo Website** | Market prediction engine + marketing site | Python, AI Agents, HTML/CSS | 🚀 Active |
 | **GuzoTracker** | Tracking / operations platform | TypeScript, AI | 🚀 Active |
-| **Baqeme** | New product initiative | JavaScript, Automation | 🚀 Active |
+| **Baqeme** | Product platform | JavaScript, Automation | 🚀 Active |
 
 ---
 
-## 🗃️ Old Projects
+## 🗃️ Legacy Projects
 
 | Project | Description | Tech | Status |
 |---------|-------------|------|--------|
