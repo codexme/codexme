@@ -11,20 +11,25 @@
 
 ### 🤖 **AI-Powered SaaS Platforms**
 
-#### **Vaxelo AI** - Prediction Engine for Kalshi Markets
-> Agentic AI system for market prediction and automated trading signals
+#### **Vaxelo AI + Vaxelo Website** - Prediction Engine, Browser Extension & Marketing Site
+> Agentic AI system for market prediction, automated trading signals, and the public-facing website
 - 🧠 Multi-agent orchestration for market analysis
 - 📊 Real-time prediction engine using LLMs
 - 🔌 Chrome extension for Kalshi platform integration
-- **Stack:** Python, AI Agents, Browser Extension APIs
+- 🌐 Marketing site for the Vaxelo product suite
+- **Stack:** Python, AI Agents, Browser Extension APIs, HTML/CSS
 
-#### **FollowUpOS** - Sales Agent Automation Platform
-> AI-powered CRM and follow-up automation for sales teams
-- ✉️ Automated lead nurturing and follow-up sequences
-- 🤖 AI-generated personalized outreach
-- 📈 Sales pipeline management with intelligent insights
+#### **GuzoTracker** - Tracking / Operations Platform
+> A focused product for tracking and operations workflows
+- 📈 Tracking and workflow automation
+- 🤖 AI-assisted insights and automation
 - **Stack:** TypeScript, SaaS Architecture, AI Integration
-- 🔗 [View Project](https://github.com/codexme/followupos-saas-platform)
+
+#### **Baqeme** - New Product Initiative
+> New product work currently in progress
+- ✨ Product development and iteration
+- 🛠️ Core platform features and automation
+- **Stack:** JavaScript, AI / Automation Stack
 
 ---
 
@@ -89,9 +94,9 @@
 
 ## 💡 Current Status
 
-- 🔭 **Shipping:** Vaxelo AI prediction engine + browser extension
+- 🔭 **Shipping:** Vaxelo AI + Vaxelo Website
 - 🌱 **Learning:** Advanced agentic AI patterns, multi-agent orchestration
-- 🚀 **Next Up:** Scaling FollowUpOS for beta customers
+- 🚀 **Next Up:** Growing GuzoTracker and Baqeme
 - 💬 **Ask me about:** Building AI-powered SaaS, automation systems, or shipping fast
 
 ---
@@ -112,8 +117,22 @@
 
 | Project | Description | Tech | Status |
 |---------|-------------|------|--------|
-| **Vaxelo AI** | Market prediction engine | Python, AI Agents | 🚀 Active |
-| **FollowUpOS** | Sales automation SaaS | TypeScript, AI | 🚀 Active |
+| **Vaxelo AI + Vaxelo Website** | Market prediction engine + marketing site | Python, AI Agents, HTML/CSS | 🚀 Active |
+| **GuzoTracker** | Tracking / operations platform | TypeScript, AI | 🚀 Active |
+| **Baqeme** | New product initiative | JavaScript, Automation | 🚀 Active |
+
+---
+
+## 🗃️ Old Projects
+
+| Project | Description | Tech | Status |
+|---------|-------------|------|--------|
+| **FollowUpOS** | Sales automation SaaS | TypeScript, AI | 💤 Legacy |
+| **Realtor Automation** | Lead capture autopilot | JavaScript, APIs | 💤 Legacy |
+| **STOPBY Cleaners** | POS for cleaning businesses | JavaScript, PWA | 💤 Legacy |
+| **HOA Guardian** | HOA management platform | JavaScript | 💤 Legacy |
+| **DebitZero** | AI debt optimization | Python, AI | 💤 Legacy |
+| **SparkleClean (fCleaningWebapp)** | Service management platform | JavaScript, PWA | 💤 Legacy |
 
 ---
 
